@@ -17,5 +17,5 @@
 - **Frontend:** React.js
 - **Backend:** Python, Django REST Framework
 
-# Feel free to check out the [SHOPZADA GitHub repository](#) for the source code and further details.
+## Feel free to check out the [SHOPZADA GitHub repository](#) for the source code and further details.
 
