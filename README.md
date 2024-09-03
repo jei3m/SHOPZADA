@@ -10,7 +10,7 @@
 - **Product Management:** Ability to browse, search, and filter products.
 - **Shopping Cart:** Add products to the cart and proceed to checkout.
 - **Order Management:** Process and track orders.
-- ** Paypal API: ** Integrated with Paypal for payment of orders.
+- **Paypal API:** Integrated with Paypal for payment of orders.
 
 ## Technologies Used
 
